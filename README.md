@@ -1,7 +1,7 @@
 # Switch-CZE
 
 
-Czech Version of Switch Menu
+Czech Version of Nintendo Switch Menu
 
 yeah, because why not.
 
